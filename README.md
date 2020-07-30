@@ -31,6 +31,8 @@ Get A prefix Set from Router IOS XR as type YAML and JSON
  <BR>
 	OR
  <BR>
-<b>Example></b> <Code> #Python3 Get_PrefixSet_XR.py  10.10.20.1  cisco  cisco123  JSON </Code> 
+<b>Example></b> 
+	  <BR>
+		  <Code> #Python3 Get_PrefixSet_XR.py  10.10.20.1  cisco  cisco123  JSON </Code> 
  
   
