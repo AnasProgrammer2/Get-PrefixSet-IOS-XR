@@ -7,13 +7,7 @@ Get A prefix Set from Router IOS XR as type YAML and JSON
 
 <b>HOW TO USER  </b>
 
-1 - you must first install this library
-<br>
-<br><code><b>pip3 install netmiko</b></code>
-<br><code><b>pip3 install paramiko</b></code>
-<br>
-<br>
-2- you just download file Get_PrefixSet_xr.py in your server , then execite it by python  3 
+you just download file Get_PrefixSet_xr.py in your server , then execite it by python  3 
  <b>syntax</b>
  <br>
  <Code> #Python3 Get_PrefixSet_XR.py  Hostname  UserName  Password  TYPE[YAML|JSON] </Code> 
