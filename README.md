@@ -1,14 +1,3 @@
-SERVICES
-DOCUMENTS
-Get-PrefixSet-IOS-XR.md
-PREVIEW AS 
-EXPORT AS 
-SAVE TO 
-IMPORT FROM 
-DOCUMENT NAME
-Get-PrefixSet-IOS-XR.md
-MARKDOWNPREVIEWToggle Mode
-  
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="GetPrefixSetIOSXR_0"></a>Get-PrefixSet-IOS-XR</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://developer.cisco.com/codeexchange/github/repo/AnasProgrammer2/Get-PrefixSet-IOS-XR"><img src="https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg" alt="published"></a></p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">PrefixSet-IOS-XR is a automation Tool that help you to get prefix-set from Router Cisco IOS XR , as Datatype [JSON | YAML]</p>
