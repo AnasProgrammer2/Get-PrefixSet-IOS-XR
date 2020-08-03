@@ -1,4 +1,7 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/AnasProgrammer2/Get-PrefixSet-IOS-XR)
+
+![Prefix_set_get](https://user-images.githubusercontent.com/15816300/89223032-bd15cd00-d5de-11ea-9619-fefcacdefa80.png)
+
 # Get-PrefixSet-IOS-XR 
 
 Get A prefix Set from Router IOS XR as type YAML and JSON
