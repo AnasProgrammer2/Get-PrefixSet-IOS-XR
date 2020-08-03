@@ -1,2 +1,2 @@
-pip3 install netmiko
-pip3 install paramiko
+netmiko
+paramiko 
