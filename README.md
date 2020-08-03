@@ -8,9 +8,20 @@ Get A prefix Set from Router IOS XR as type YAML and JSON
 
 <p>This library helps to obtain prefix-set from Cisco Router (iox-xr)  with two types of formats (YAML, JSON) </p>
 
-<b>HOW TO USER  </b>
 
-you just download file Get_PrefixSet_xr.py in your server , then execite it by python  3 
+<b>HOW TO Setup  </b>
+
+<Br>
+<Code> 
+#git clone https://github.com/AnasProgrammer2/Get-PrefixSet-IOS-XR.git </Code> 
+	<Br>
+<Code> #cd Get-PrefixSet-IOS-XR/</Code>
+<Br>
+<Code> pip3 install -r requirements.txt</Code>
+ 
+ <br> 
+<b>HOW TO USE  </b>
+execite it by python  3 
  <b>syntax</b>
  <br>
  <Code> #Python3 Get_PrefixSet_XR.py  Hostname  UserName  Password  TYPE[YAML|JSON] </Code> 
